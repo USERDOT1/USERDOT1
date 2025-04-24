@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @USERDOT1
 - 👀 I’m interested in coding video games
-- 🌱 I’m currently learning the unity engine
+- 🌱 I’m currently learning the godot engine
 - 📫 How to reach me samuelchanceholden@gmail.com
 
 <!---
